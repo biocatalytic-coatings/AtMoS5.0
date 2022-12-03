@@ -54,7 +54,7 @@ namespace AtMoS3
         {
             //  Here we make changes to the program features at runtime depending on which organisation
             //  is using the program.  The active features are determined by the value 
-            //  of "User" in the app.config file.
+            //  of "User" in the app.config file.  Just added this to check GitHub upload.
             if (version == "SCU")
             {
                 this.Text = "Atmos4.1 - SCU-Faculty of Science and Engineering";
